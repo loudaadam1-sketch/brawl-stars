@@ -1,16 +1,16 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    padding: 20px;
-}
+document.addEventListener("DOMContentLoaded", () => {
+    const checkboxes = document.querySelectorAll(".task");
+    const counter = document.getElementById("counter");
 
-h1 {
-    color: #ff6600;
-}
+    function updateCounter() {
+        let count = 0;
+        checkboxes.forEach(box => {
+            if (box.checked) count++;
+        });
+        counter.textContent = count;
+    }
 
-section {
-    background: white;
-    padding: 15px;
-    margin-top: 15px;
-    border-radius: 10px;
-}
+    checkboxes.forEach(box => {
+        box.addEventListener("change", updateCounter);
+    });
+});
