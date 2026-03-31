@@ -1,3 +1,39 @@
-moreeee tak coo alee do pici
-.ghgkcgh
+💻 KODÉR – konkrétní úkoly
+Vytvoř soubor index.html
+Přidej:
+nadpis: „Jak se zlepšit v Brawl Stars“
+sekci „Úkoly“
+sekci „Tipy“
+Do „Úkoly“ dej minimálně 5 checkboxů
+Propoj CSS soubor (style.css)
+(BONUS) Přidej JavaScript:
+počítadlo splněných úkolů
 
+👉 Termín: (doplň si)
+
+🎨 DESIGNER – konkrétní úkoly
+Vytvoř soubor style.css
+Nastav:
+pozadí stránky (barva nebo obrázek)
+styl pro úkoly (boxy, zaoblení)
+barvu nadpisu
+Udělej, aby stránka byla:
+přehledná
+hezká (barvy jako ve hře)
+Přidej efekt:
+při najetí myší (hover)
+
+👉 Termín: (doplň si)
+
+🧠 OBSAH – konkrétní úkoly
+Napiš nadpisy:
+„Jak se zlepšit“
+„Tipy pro hráče“
+Vymysli 5 úkolů:
+např. „zahraj 5 her denně“
+„trénuj míření“
+Napiš 3–5 tipů:
+jak hrát lépe
+Rozděl text do odstavců (aby se dal dát na web)
+
+👉 Termín: (doplň si)
