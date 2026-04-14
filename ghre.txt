@@ -9,7 +9,7 @@ Propoj CSS soubor (style.css)
 (BONUS) Přidej JavaScript:
 počítadlo splněných úkolů
 
-👉 Termín: (doplň si)
+👉 Termín: (doplň si a nechci)
 
 🎨 DESIGNER – konkrétní úkoly
 Vytvoř soubor style.css

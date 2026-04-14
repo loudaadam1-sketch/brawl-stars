@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #0f2027, #2c5364);
+    color: white;
+}
+
+/* Hlavní container */
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Nadpis */
+h1 {
+    text-align: center;
+    color: #ffe600;
+    text-shadow: 3px 3px 10px black;
+}
+
+/* Boxy */
+.box {
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+
+/* Nadpis sekcí */
+h2 {
+    color: #ff4d4d;
+    margin-bottom: 15px;
+}
+
+/* Úkol */
+.task {
+    margin: 10px 0;
+}
+
+/* Label jako karta */
+.task label {
+    display: block;
+    background: #1f1f1f;
+    padding: 12px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* Hover efekt */
+.task label:hover {
+    background: #333;
+    transform: scale(1.05);
+}
+
+/* Checkbox */
+input[type="checkbox"] {
+    margin-right: 10px;
+    transform: scale(1.2);
+}
+
+/* Counter */
+.counter {
+    margin-top: 15px;
+    font-weight: bold;
+    color: #00ffcc;
+}
+
+/* Tipy */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin: 8px 0;
+}
