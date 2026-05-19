@@ -7,7 +7,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background:
-        url("crow.jpg") left center no-repeat,
+        url("crow.png") left center no-repeat,
         url("brock.png") right center no-repeat,
         linear-gradient(135deg, #1e1e2f, #2a2a72);
 
