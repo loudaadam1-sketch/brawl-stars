@@ -88,3 +88,11 @@ ul li:hover {
         padding: 15px;
     }
 }
+a {
+    color: #ffffff; /* bílá */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffcc00; /* žlutá při najetí myší */
+}
